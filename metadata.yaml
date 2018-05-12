@@ -1,10 +1,16 @@
 _repo: T-B-Peterson-s-List-of-Publications-1857_48631
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48631-h/images/cover.jpg
 creator:
   author:
     agent_name: Peterson, T. B.
     gutenberg_agent_id: '44891'
     url: http://www.gutenberg.org/2009/agents/44891
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48631#T-B-Peterson-s-List-of-Publications-1857
 gutenberg_issued: '2015-04-03'
 gutenberg_type: Text
 identifiers:
